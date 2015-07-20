@@ -1,2 +1,7 @@
-# Twisted-Sin-The-Uprising
-Twisted Sin: The Uprising modpack for the Curse Launcher
+# Twisted-Sin-Uprising
+Twisted Sin: Uprising is a custom 'hardcore' modpack for the Curse Launcher
+
+# Authors
+@MindlessPuppetz
+@artdude543
+@junglistbeast
